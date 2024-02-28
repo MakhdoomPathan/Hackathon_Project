@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T15:35:12 IST" name="Suite" finished-at="2024-02-28T15:36:10 IST" duration-ms="57771">
+    <groups>
+      <group name="sanity">
+        <method signature="TC_Travel_Insuarance.fillingInfoAndViewPlan()[pri:2, instance:testCases.TC_Travel_Insuarance@6a78afa0]" name="fillingInfoAndViewPlan" class="testCases.TC_Travel_Insuarance"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-02-28T15:35:12 IST" name="Test" finished-at="2024-02-28T15:36:10 IST" duration-ms="57771">
+      <class name="testCases.TC_Travel_Insuarance">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_Travel_Insuarance@6a78afa0]" started-at="2024-02-28T15:35:13 IST" name="setup" finished-at="2024-02-28T15:35:27 IST" duration-ms="14020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="ClickOnTravelInsuarancePage()[pri:0, instance:testCases.TC_Travel_Insuarance@6a78afa0]" started-at="2024-02-28T15:35:27 IST" name="ClickOnTravelInsuarancePage" finished-at="2024-02-28T15:35:27 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnTravelInsuarancePage -->
+        <test-method signature="navigateToTravelInsuarancePage()[pri:1, instance:testCases.TC_Travel_Insuarance@6a78afa0]" started-at="2024-02-28T15:35:28 IST" name="navigateToTravelInsuarancePage" finished-at="2024-02-28T15:35:34 IST" duration-ms="6059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToTravelInsuarancePage -->
+        <test-method signature="fillingInfoAndViewPlan()[pri:2, instance:testCases.TC_Travel_Insuarance@6a78afa0]" started-at="2024-02-28T15:35:34 IST" name="fillingInfoAndViewPlan" finished-at="2024-02-28T15:35:52 IST" duration-ms="17643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillingInfoAndViewPlan -->
+        <test-method signature="settingFilter()[pri:3, instance:testCases.TC_Travel_Insuarance@6a78afa0]" started-at="2024-02-28T15:35:52 IST" name="settingFilter" finished-at="2024-02-28T15:36:04 IST" duration-ms="11765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingFilter -->
+        <test-method signature="RetrievingInsuaranceDetails()[pri:4, instance:testCases.TC_Travel_Insuarance@6a78afa0]" started-at="2024-02-28T15:36:04 IST" name="RetrievingInsuaranceDetails" finished-at="2024-02-28T15:36:09 IST" duration-ms="4551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RetrievingInsuaranceDetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_Travel_Insuarance@6a78afa0]" started-at="2024-02-28T15:36:09 IST" name="tearDown" finished-at="2024-02-28T15:36:10 IST" duration-ms="1172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_Travel_Insuarance -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

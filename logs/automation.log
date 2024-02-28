@@ -1,0 +1,6 @@
+15:37:11.746 [main] INFO  testBase.BaseClassCucumber - **********Navigated to travel insurance page ********
+15:37:25.072 [main] INFO  testBase.BaseClassCucumber - **********Navigated to travel insurance page ********
+15:37:29.637 [main] INFO  testBase.BaseClassCucumber - **********Navigated to travel insurance page ********
+15:37:34.802 [main] INFO  testBase.BaseClassCucumber - ********** Retrieving the lowest insurance plan ********
+15:54:06.884 [main] INFO  testBase.BaseClass - **********Chrome is initialized ********
+15:54:08.599 [main] INFO  testBase.BaseClass - **********Chrome is initialized ********

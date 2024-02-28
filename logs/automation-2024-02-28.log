@@ -1,0 +1,49 @@
+15:26:43.112 [main] INFO  testBase.BaseClassCucumber - ********** filling personal info check for invalid email error ********
+15:26:43.970 [main] INFO  testBase.BaseClassCucumber - ********** filling incorrect number and checking for invalid number error ********
+15:26:59.007 [main] INFO  testBase.BaseClassCucumber - **********Chrome is initialized ********
+15:27:43.190 [main] INFO  testBase.BaseClassCucumber - Goto my Home Page--> 
+15:28:00.879 [main] INFO  testBase.BaseClassCucumber - ********** User is clicking on Health Insurance ********
+15:28:01.089 [main] INFO  testBase.BaseClassCucumber - ********** filling the details and clicking on view plans ********
+15:29:02.696 [main] INFO  testBase.BaseClassCucumber - **********Chrome is initialized ********
+15:29:29.489 [main] INFO  testBase.BaseClassCucumber - Goto my Home Page--> 
+15:29:40.384 [main] INFO  testBase.BaseClassCucumber - ********** Retrieving the health insurance plans ********
+15:29:48.364 [main] INFO  testBase.BaseClassCucumber - **********Chrome is initialized ********
+15:30:31.098 [main] INFO  testBase.BaseClassCucumber - **********Chrome is initialized ********
+15:31:16.250 [main] INFO  testBase.BaseClassCucumber - Goto my Home Page--> 
+15:31:18.108 [main] INFO  testBase.BaseClassCucumber - ********** User is clicking on car insurance ********
+15:31:18.673 [main] INFO  testBase.BaseClassCucumber - ********** filling the car number and click on view price ********
+15:31:22.152 [main] INFO  testBase.BaseClassCucumber - ********** checking if the correct car has been identified ********
+15:31:34.471 [main] INFO  testBase.BaseClassCucumber - **********Chrome is initialized ********
+15:31:45.713 [main] INFO  testBase.BaseClassCucumber - Goto my Home Page--> 
+15:31:48.630 [main] INFO  testBase.BaseClassCucumber - ********** User is clicking on car insurance ********
+15:31:48.894 [main] INFO  testBase.BaseClassCucumber - ********** filling the details ********
+15:32:01.609 [main] INFO  testBase.BaseClassCucumber - ********** filling personal info check for invalid email error ********
+15:32:02.352 [main] INFO  testBase.BaseClassCucumber - ********** filling incorrect number and checking for invalid number error ********
+15:32:09.580 [main] INFO  testBase.BaseClassCucumber - **********Chrome is initialized ********
+15:32:18.382 [main] INFO  testBase.BaseClassCucumber - Goto my Home Page--> 
+15:32:19.843 [main] INFO  testBase.BaseClassCucumber - ********** User is clicking on Health Insurance ********
+15:32:20.097 [main] INFO  testBase.BaseClassCucumber - ********** filling the details and clicking on view plans ********
+15:33:09.823 [main] INFO  testBase.BaseClassCucumber - ********** Retrieving insurance plan ********
+15:33:22.423 [main] INFO  testBase.BaseClassCucumber - **********Chrome is initialized ********
+15:33:29.808 [main] INFO  testBase.BaseClassCucumber - Goto my Home Page--> 
+15:33:31.469 [main] INFO  testBase.BaseClassCucumber - ********** Retrieving the health insurance plans ********
+15:33:39.297 [main] INFO  testBase.BaseClassCucumber - **********Chrome is initialized ********
+15:33:47.589 [main] INFO  testBase.BaseClassCucumber - Goto my Home Page--> 
+15:33:49.572 [main] INFO  testBase.BaseClassCucumber - ********** User is clicking on Travel insurance ********
+15:33:49.774 [main] INFO  testBase.BaseClassCucumber - ********** Filling the details and clicking on view plans for travel insurance ********
+15:33:49.777 [main] INFO  testBase.BaseClassCucumber - **********Navigated to travel insurance page ********
+15:34:03.918 [main] INFO  testBase.BaseClassCucumber - **********Navigated to travel insurance page ********
+15:34:11.255 [main] INFO  testBase.BaseClassCucumber - **********Navigated to travel insurance page ********
+15:34:18.033 [main] INFO  testBase.BaseClassCucumber - ********** Retrieving the lowest insurance plan ********
+15:35:19.049 [main] INFO  testBase.BaseClass - **********Chrome is initialized ********
+15:35:27.525 [main] INFO  testBase.BaseClass - **********Chrome is initialized ********
+15:35:28.194 [main] INFO  testBase.BaseClass - ********** navigate to TravelInsurance page ********
+15:35:34.617 [main] INFO  testBase.BaseClass - **********filling info and view plan ********
+15:35:41.092 [main] INFO  testBase.BaseClass - **********Navigated to travel inurance page ********
+15:35:46.964 [main] INFO  testBase.BaseClass - **********Navigated to travel inurance page ********
+15:35:52.637 [main] INFO  testBase.BaseClass - ********** Displaying three lowest travel insurance plan ********
+15:36:04.674 [main] INFO  testBase.BaseClass - ********** Retrieving Insurance Details ********
+15:37:01.036 [main] INFO  testBase.BaseClassCucumber - **********Chrome is initialized ********
+15:37:09.810 [main] INFO  testBase.BaseClassCucumber - Goto my Home Page--> 
+15:37:11.302 [main] INFO  testBase.BaseClassCucumber - ********** User is clicking on Travel insurance ********
+15:37:11.742 [main] INFO  testBase.BaseClassCucumber - ********** Filling the details and clicking on view plans for travel insurance ********
